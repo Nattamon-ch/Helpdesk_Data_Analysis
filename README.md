@@ -27,6 +27,15 @@ The data cleaning process is comprehensively documented and includes the followi
    - Correct or remove any incorrect data entries.
    - Exclude irrelevant data that does not contribute to the analysis.
 
+## Data Analysis and Summarization
+
+In addition to cleaning the data, extensive analysis and summarization were performed within the Excel environment:
+
+- **Summary**: A concise summary sheet was created to provide a snapshot of the dataset and key metrics.
+- **Ticket Viewer**: An interactive ticket viewer was developed for easy access and inspection of individual ticket details.
+- **PivotTable_Ticket**: A PivotTable was constructed to dynamically summarize and analyze the ticket data, enabling quick insights into various data segments.
+- **PivotChart_Status**: Accompanying the PivotTable, a PivotChart was designed to visually represent the status distribution of the tickets, offering an intuitive understanding of the data's status composition.
+
 ## Tools Used
 - **Excel**: For preliminary data assessments.
 - **PowerPoint**: For the creation of the presentation that conveys our findings.
