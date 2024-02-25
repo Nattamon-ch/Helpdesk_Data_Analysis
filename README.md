@@ -1,12 +1,12 @@
 # Helpdesk_Data_Analysis
-Data analysis project on helpdesk ticket data. Cleaned, analyzed, and presented insights to improve support fulfillment. Original &amp; cleaned datasets, cleaning documentation, analysis scripts, and presentation materials included.
+Data analysis project on helpdesk ticket data. Cleaned, analyzed, and presented insights to improve support fulfilment. Original &amp; cleaned datasets, cleaning documentation, analysis scripts, and presentation materials included.
 
 ----------------
 
 # Helpdesk Ticket Data Analysis
 
 ## Project Overview
-This repository documents a comprehensive analysis of helpdesk ticket data, aimed at improving support fulfillment strategies. Through meticulous data cleaning and analysis, we've extracted actionable insights that could significantly enhance the efficiency of helpdesk operations.
+This repository documents a comprehensive analysis of helpdesk ticket data aimed at improving support fulfilment strategies. Through meticulous data cleaning and analysis, we've extracted actionable insights that could significantly enhance the efficiency of helpdesk operations.
 
 ## Data Description
 
@@ -18,8 +18,14 @@ Including both datasets supports transparency in the data analysis process and p
 
 
 ## Cleaning Process
-Data integrity is paramount. In the `docs` directory, you'll find a thorough chronicle of the data cleaning process, addressing missing values, anomalies, and data normalization to ensure high-quality analysis.
 
+The data cleaning process is comprehensively documented and includes the following steps:
+
+1. **Data Analysis**: Initial analysis to understand the structure, contents, and quality of the raw data.
+2. **Data Cleaning**: Based on the analysis, cleaning procedures were performed to:
+   - Remove duplicate records.
+   - Correct or remove any incorrect data entries.
+   - Exclude irrelevant data that does not contribute to the analysis.
 
 ## Tools Used
 - **Excel**: For preliminary data assessments.
@@ -27,8 +33,8 @@ Data integrity is paramount. In the `docs` directory, you'll find a thorough chr
 
 
 ## Findings
-For an overview of the insights derived from our data analysis, refer to the `presentation` directory. It contains the PowerPoint slides that encapsulate the core findings and recommendations from this project.
+Refer to the' presentation' directory for an overview of the insights derived from our data analysis. It contains the PowerPoint slides that encapsulate this project's core findings and recommendations.
 
 ## Acknowledgments
-Special thanks to the mentors and colleagues who have provided invaluable feedback throughout this project. I extend my sincerest appreciation to [Mentor's Name] for their mentorship and support.
+Special thanks to the mentors and colleagues who have provided invaluable feedback throughout this project. I extend my sincerest appreciation to [-] for their mentorship and support.
 
